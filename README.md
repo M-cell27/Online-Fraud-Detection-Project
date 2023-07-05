@@ -1,8 +1,4 @@
-# Online-Fraud-Detection-Project
-Fraud detection project using machine learning to classify financial transactions as fraudulent or non-fraudulent. Includes data preprocessing, EDA, model development, and evaluation. Trained model predicts fraud cases. Jupyter Notebooks, Python scripts, and instructions in README. Licensed under the MIT License.
-
 # Fraud Detection Project
-
 This project focuses on fraud detection in financial transactions using machine learning techniques. The goal is to develop a model that can accurately classify transactions as fraudulent or non-fraudulent based on various features.
 
 ## Table of Contents
