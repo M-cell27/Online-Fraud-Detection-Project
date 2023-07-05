@@ -4,6 +4,7 @@ This project focuses on fraud detection in financial transactions using machine 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
+- [Data](#data)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Results](#results)
@@ -36,6 +37,21 @@ fraud_detection_project/
 - The `notebooks` directory contains the Jupyter Notebook file for the project.
 - The `src` directory contains the Python scripts for data preprocessing, model training, and evaluation.
 - The `config.py` file contains project-specific configurations and parameters.
+
+## Data Source
+
+The dataset used in this project can be found on Kaggle: [Online Payment Fraud Detection Dataset](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection)
+
+## Download Instructions
+
+To download the dataset from Kaggle, please follow these steps:
+
+1. Sign up for a Kaggle account if you don't have one.
+2. Navigate to the dataset page: [Online Payment Fraud Detection Dataset](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection)
+3. Click on the "Download" button on the Kaggle page to download the dataset.
+
+Note: Ensure you have the necessary dependencies or requirements to download the dataset from Kaggle.
+
 
 ## Dependencies
 
